@@ -19,9 +19,7 @@
 
 - ⚡ Fun fact **Chai Over Coffee**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhaamrit" alt="sinhaamrit" /></a> </p>
