@@ -35,6 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaamrit&" alt="sinhaamrit" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaamrit&layout=compact" alt="sinhaamrit" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhaamrit&show_icons=true" alt="sinhaamrit" /></p>
