@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with **Discussion Forum**
+- 🤝 I’m looking for help with **Bug Bounty**
 
 - 👨‍💻 All of my projects are available at [https://codiizone.blogspot.com/](https://codiizone.blogspot.com/)
 
