@@ -98,4 +98,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhaamrit&show_icons=true" alt="sinhaamrit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaamrit&" alt="sinhaamrit" /></p>
 <p align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhaamrit" alt="sinhaamrit" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
