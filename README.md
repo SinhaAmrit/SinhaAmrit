@@ -98,5 +98,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhaamrit&show_icons=true" alt="sinhaamrit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaamrit&" alt="sinhaamrit" /></p>
 <p align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhaamrit&theme=dracula&no-bg=true&no-frame=true" alt="sinhaamrit" /></a> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhaamrit&theme=dracula&no-bg=true&no-frame=true&column=3" alt="sinhaamrit" /></a> 
 </p>
