@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://codiizone.blogspot.com/](https://codiizone.blogspot.com/)
 
-- 💬 Ask me about **Java, Laravel, Flutter...**
+- 💬 Ask me about **Java, C++, Laravel, Flutter, Cyber Security...**
 
 - 📫 How to reach me **purpleplots@gmail.com**
 
