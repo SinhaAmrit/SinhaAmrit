@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaamrit" alt="sinhaamrit" /> </p>
 
-- 🔭 I’m currently working on **Discussion Forum**
+- 🔭 I’m currently working on my **Data Structures & Algorithm** skills
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 🤝 I’m looking for help with **Bug Bounty**
 
