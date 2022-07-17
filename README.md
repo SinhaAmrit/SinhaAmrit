@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Sinha</h1>
 <h3 align="center">A passionate full stack developer from India 🇮🇳</h3>
-
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhaamrit" alt="sinhaamrit" /> </p>
 
 - 🔭 I’m currently working on my **Data Structures & Algorithm** skills
