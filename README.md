@@ -22,7 +22,7 @@
 - ⚡ Fun fact **Chai Over Coffee**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://codepen.io/sinhaamrit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sinhaamrit" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sinhaamrit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sinhaamrit" height="30" width="40" /></a>
 <a href="https://instagram.com/codiizone" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="codiizone" height="30" width="40" /></a>
