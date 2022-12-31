@@ -11,7 +11,7 @@
 
 - 🎞️ I regulary post coding related stuff on [Instagram @CodiiZone](https://www.instagram.com/codiizone/)
 
-- 👨‍💻 All of my projects are available at [https://savvybytes.blogspot.com/](https://savvybyte.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://savvybyte.blogspot.com/](https://savvybyte.blogspot.com/)
 
 - 📝 I regulary write articles on [https://savvybyte.blogspot.com/](https://savvybyte.blogspot.com/)
 
