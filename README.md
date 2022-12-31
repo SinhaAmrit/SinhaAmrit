@@ -11,9 +11,9 @@
 
 - 🎞️ I regulary post coding related stuff on [Instagram @CodiiZone](https://www.instagram.com/codiizone/)
 
-- 👨‍💻 All of my projects are available at [https://codiizone.blogspot.com/](https://codiizone.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://savvybytes.blogspot.com/](https://savvybytes.blogspot.com/)
 
-- 📝 I regulary write articles on [https://codiizone.blogspot.com/](https://codiizone.blogspot.com/)
+- 📝 I regulary write articles on [https://savvybytes.blogspot.com/](https://savvybytes.blogspot.com/)
 
 - 💬 Ask me about **Java, C++, Laravel, Flutter, Cyber Security...**
 
