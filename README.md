@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my **Data Structures & Algorithm** skills
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Cyber Security** 
 
 - 🤝 I’m looking for help with **Bug Bounty**
 
