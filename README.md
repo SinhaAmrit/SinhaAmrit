@@ -102,3 +102,4 @@
 <p align="left">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinhaamrit&theme=dracula&no-bg=true&no-frame=true&column=4" alt="sinhaamrit" /></a> 
 </p>
+
